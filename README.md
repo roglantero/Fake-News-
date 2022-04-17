@@ -25,7 +25,7 @@ rgonzalez.ieu2018@student.ie.edu
 ## License
 MIT License
 
-Copyright (c) [2019] [IE Maps]
+Copyright (c) [2022] [Fake News]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
